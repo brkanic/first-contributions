@@ -15,6 +15,7 @@
 - [Vernell C.](https://github.com/VCGithubCode) 🎸⭐️
 - [Alex Perez](https://github.com/alexperez45) :p
 - [Bandhan Majumder](https://github.com/bandhan-majumder)
+- [Martina Brkanic] (https://github.com/brkanic) 🙋‍♀️
 - [CJ Young](https://github.com/cj-young)
 - [kobamkode](https://github.com/kobamkode)
 - [Arnav Surve](https://github.com/arnavsurve)
